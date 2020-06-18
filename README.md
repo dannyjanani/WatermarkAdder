@@ -17,12 +17,12 @@ At Con Edison, there were many times where they received drawings from contracto
   * User will specify the directory they would like to process.
   * The directory will be copied to the server for processing.
   * No additional downloads for the user.
-  * The user will receive an email with the location to the processed files.
+  * The user will receive an email with a link to the processed files.
 * Server Side: 
   * There is a File Listener, watching for a new directory.
   * When it sees a new directory, it will open a process of AutoCAD with an Embedded Drawing.
   * The drawings will be processed and stored on the server.
-  * An email will be sent to the user with the location.
+  * An email will be sent to the user with a link to the processed files.
   * The files will be deleted after 7 days as specified by the admin.
 
 ## Skills Used
