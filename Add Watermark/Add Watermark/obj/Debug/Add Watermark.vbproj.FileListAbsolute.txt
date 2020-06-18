@@ -1,0 +1,10 @@
+c:\users\jananid\documents\visual studio 2013\Projects\Add Watermark\Add Watermark\bin\Debug\Add Watermark.exe.config
+C:\Users\jananid\Documents\Visual Studio 2013\Projects\Add Watermark\Add Watermark\bin\Debug\Add Watermark.exe
+C:\Users\jananid\Documents\Visual Studio 2013\Projects\Add Watermark\Add Watermark\bin\Debug\Add Watermark.pdb
+C:\Users\jananid\Documents\Visual Studio 2013\Projects\Add Watermark\Add Watermark\bin\Debug\Add Watermark.xml
+C:\Users\jananid\Documents\Visual Studio 2013\Projects\Add Watermark\Add Watermark\obj\Debug\Add_Watermark.Main.resources
+C:\Users\jananid\Documents\Visual Studio 2013\Projects\Add Watermark\Add Watermark\obj\Debug\Add_Watermark.Resources.resources
+C:\Users\jananid\Documents\Visual Studio 2013\Projects\Add Watermark\Add Watermark\obj\Debug\Add Watermark.vbproj.GenerateResource.Cache
+C:\Users\jananid\Documents\Visual Studio 2013\Projects\Add Watermark\Add Watermark\obj\Debug\Add Watermark.exe
+C:\Users\jananid\Documents\Visual Studio 2013\Projects\Add Watermark\Add Watermark\obj\Debug\Add Watermark.xml
+C:\Users\jananid\Documents\Visual Studio 2013\Projects\Add Watermark\Add Watermark\obj\Debug\Add Watermark.pdb
