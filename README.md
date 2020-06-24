@@ -11,7 +11,7 @@ At Con Edison, there were many times where they received drawings from contracto
 * Obtaining admin approval to create the executable.
 * Obtaining a server to run the program on.
 * Obtaining a no-reply email to be used to let user track progress.
-* Add a watermark to many DWG files.
+* Have the ability to add a watermark to many DWG files.
 * Making it as convenient and as quick as possible for the user.
 * Client Side:
   * User will specify the directory they would like to process.
