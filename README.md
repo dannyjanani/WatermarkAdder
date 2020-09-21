@@ -30,7 +30,7 @@ At Con Edison, there were many times where they received drawings from contracto
 
 How it Works!    
 :-------------------------:
-[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/watermark.jpg)](https://vimeo.com/458374394)
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Watermark-Adder-Thumbnail.png)](https://vimeo.com/458374394)
 
 
 ## Skills Used
