@@ -25,6 +25,14 @@ At Con Edison, there were many times where they received drawings from contracto
   * An email will be sent to the user with a link to the processed files.
   * The files will be deleted after 7 days as specified by the admin.
 
+
+## Gallery
+
+How it Works!    
+:-------------------------:
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/watermark.jpg)](https://vimeo.com/458374394)
+
+
 ## Skills Used
   
 * Software:
